@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mainbox>
+  <h1>Lektionerne</h1>
+
+    <sikkerhedslek>
+      <overskrift>Sikkerhed på hjemmesider</overskrift>
+      <lector>Niels</lector>
+      <noterne>
+        Her imellem ses noterne fra disse lektioner.
+      </noterne>
+    </sikkerhedslek>
+
+    <webLek>
+      <overskrift>Webprogrammering</overskrift>
+      <lector>Niels</lector>
+      <noterne>
+        Her imellem ses noterne fra disse lektioner.
+      </noterne>
+    </webLek>
+
+</mainbox>

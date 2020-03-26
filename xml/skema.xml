@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<schedule>
+    <lesson>
+        <module>
+            <group>1wu09B</group>
+            <unit>
+                <subject>Databases and XML</subject>
+                <faculty>Niels Müller Larsen</faculty>
+            </unit>
+        </module>
+        <room>A2.08</room>
+        <time>
+            <dow>Wed</dow>
+            <tod>09:00</tod>
+            <duration>2</duration>
+        </time>
+    </lesson>
+</schedule>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theGovernment>
+  <form>
+    <gfName>Territory of Australia</gfName>
+  </form>
+  <form>
+    <gfName>Monarchy (Emirate)</gfName>
+  </form>
+  <form>
+    <gfName>Parliamentary Coprincipality</gfName>
+  </form>
+</theGovernment>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thecountries>
+  <country>
+    <countCode>AUS</countCode>
+    <countName>Australia</countName>
+    <countContinent>Oceania</countContinent>
+    <countRegion>Australia and New Zealand</countRegion>
+    <countSurfacearea>7741220</countSurfacearea>
+    <countIndepyear>1901</countIndepyear>
+    <countPopulation>18886000</countPopulation>
+    <countLife>79.8</countLife>
+    <countLocalname>Australia</countLocalname>
+    <countGovernmentform>Constitutional Monarchy, Federation</countGovernmentform>
+    <countHeadofstate>Elisabeth II</countHeadofstate>
+  </country>
+  <country>
+    <countCode>ANT</countCode>
+    <countName>Netherlands Antilles</countName>
+    <countContinent>North America</countContinent>
+    <countRegion>Caribbean</countRegion>
+    <countSurfacearea>800</countSurfacearea>
+    <countIndepyear>Null</countIndepyear>
+    <countPopulation>217000</countPopulation>
+    <countLife>74.7</countLife>
+    <countLocalname>Nederlandse Antillen</countLocalname>
+    <countGovernmentform>Nonmetropolitan Territory of The Netherlands</countGovernmentform>
+    <countHeadofstate>Beatrix</countHeadofstate>
+  </country>
+</thecountries>

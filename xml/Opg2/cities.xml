@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theCities>
+  <city>
+    <cityOldid>14</oldid>
+    <cityName>Nijmegen</name>
+    <cityCountrycode>NLD</countrycode>
+    <cityDistrict>Gelderland</district>
+    <cityPopulation>152463</population>
+  </city>
+  <city>
+    <cityOldid>4</oldid>
+    <cityName>Mazar-e-Sharif</name>
+    <cityCountrycode>AFG</countrycode>
+    <cityDistrict>Balkh</district>
+    <cityPopulation>127800</population>
+  </city>
+  <city>
+    <cityOldid>203</oldid>
+    <cityName>Zenica</name>
+    <cityCountrycode>BIH</countrycode>
+    <cityDistrict>Federaatio</district>
+    <cityPopulation>96027</population>
+  </city>
+</theCities>
