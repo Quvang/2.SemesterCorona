@@ -1,0 +1,35 @@
+Terminalen:
+Asynchronous? If I come first, yes!
+Connected to server by mongoose
+
+Hvis filen køres uden andet end node kommer der ingen fejl.
+
+String:
+Fungere ikke for mig at lave stringen om til tal.
+
+
+Number:
+$ node users.js Sune 60000
+Asynchronous? If I come first, yes!
+primary:
+ValidationError: zipcode: Path `zipcode` (60000) is more than maximum allowed value (9999).
+Connected to server by mongoose
+
+Det som sker her er at vi får en fejl fordi at værdien overstiger max på number.
+
+Date:
+
+Forstår ikke hvordan vi skal alter den her data.
+
+
+Unique:
+Denne bruges til at lave et check på om et eventuelt brugernavn findes.
+
+Et eksempel kan være at jeg på github hedder quvang, og ved hjælp af unique i et schema kan du få den til at tjekke om navnet allerede findes, og så melde en fejl.
+
+
+Required:
+
+Jeg syntes ikke at kunne få den til at melde en fejl.
+
+Men dette betyder at hvis man efterlader et felt tomt, jamen så vil den komme og melde en fejl om at feltet er tomt, udfyld det venligts.
